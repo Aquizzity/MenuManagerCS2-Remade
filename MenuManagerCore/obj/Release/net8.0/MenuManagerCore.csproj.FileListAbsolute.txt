@@ -1,0 +1,13 @@
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.csproj.AssemblyReference.cache
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.AssemblyInfoInputs.cache
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.AssemblyInfo.cs
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.csproj.CoreCompileInputs.cache
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\build_output\MenuManagerCore.deps.json
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\build_output\MenuManagerCore.dll
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\build_output\MenuManagerCore.pdb
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuMana.A26E444B.Up2Date
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.dll
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\refint\MenuManagerCore.dll
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\MenuManagerCore.pdb
+C:\Users\green\Downloads\MenuManagerCS2-final\MenuManagerCS2-main\MenuManagerCore\obj\Release\net8.0\ref\MenuManagerCore.dll

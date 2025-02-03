@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerCore\\MenuManagerCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\MenuManagerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\MenuManagerApi.csproj",
+        "projectName": "MenuManagerApi",
+        "projectPath": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\MenuManagerApi.csproj",
+        "packagesPath": "C:\\Users\\green\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\green\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CounterStrikeSharp.API": {
+              "target": "Package",
+              "version": "[1.0.228, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerCore\\MenuManagerCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerCore\\MenuManagerCore.csproj",
+        "projectName": "MenuManagerCore",
+        "projectPath": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerCore\\MenuManagerCore.csproj",
+        "packagesPath": "C:\\Users\\green\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\green\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\MenuManagerApi.csproj": {
+                "projectPath": "C:\\Users\\green\\Downloads\\MenuManagerCS2-final\\MenuManagerCS2-main\\MenuManagerApi\\MenuManagerApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CounterStrikeSharp.API": {
+              "target": "Package",
+              "version": "[1.0.305, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
